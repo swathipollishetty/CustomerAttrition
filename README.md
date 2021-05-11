@@ -1,0 +1,2 @@
+# CustomerAttrition
+ustomers leaving the company by canceling the service is the business problem in this case. The company has been facing a great financial loss due to customers leaving the company by canceling their service.The goal of my analysis is to find the reasons on why the customers are canceling their service and to suggest improvements. My analysis will aim to draw conclusions about how different attributes in the data are influencing the canceled service attribute and to predict how they will affect in the future.
